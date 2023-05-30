@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/auto-life/static/css/main.7acaea2f.css",
-    "main.js": "/auto-life/static/js/main.07d3183d.js",
+    "main.css": "/auto-life/static/css/main.48f9ef7b.css",
+    "main.js": "/auto-life/static/js/main.411962d9.js",
     "index.html": "/auto-life/index.html",
-    "main.7acaea2f.css.map": "/auto-life/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/auto-life/static/js/main.07d3183d.js.map"
+    "main.48f9ef7b.css.map": "/auto-life/static/css/main.48f9ef7b.css.map",
+    "main.411962d9.js.map": "/auto-life/static/js/main.411962d9.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.48f9ef7b.css",
+    "static/js/main.411962d9.js"
   ]
 }
